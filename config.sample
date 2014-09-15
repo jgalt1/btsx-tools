@@ -1,0 +1,11 @@
+{
+  "bts_rpc": {
+    "url": "http://localhost:1543/rpc",
+    "username": "rpc-username-goes-here",
+    "password": "rpc-password-goes-here"
+  },
+  "asset_list": ["USD","BTC","CNY","GLD","EUR"],
+  "delegate_list": ["delegate-name-goes-here"],
+  "variance": 1,
+  "maxhours": 8
+}
